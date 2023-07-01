@@ -37,7 +37,7 @@ Serve the application.
 npm run dev
 ```
 
-Enjoy! [localhost:5173](http://localhost:5173/)
+Enjoy! [localhost:5173](http://localhost:5173)
 
 ## Built With
 
